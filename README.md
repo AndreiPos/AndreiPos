@@ -9,7 +9,7 @@ An adaptable team player with a strong work ethic. I embrace challenges and chan
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [andreipostolache1999@yahoo.ro](mailto:andreipostolache1999@yahoo.ro)
 *   🚀  I'm currently working on [Data structures and algorithms](http://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-*   🧠  I'm learning C++
+*   🧠  I'm learning C++ and financial literacy
 *   🤝  I'm open to collaborating on Projects
   ### Skills 
 <p align="left">
